@@ -1,13 +1,9 @@
-# Multicutter
+# Coal Nuggets
 
-This is a fork of [rotgruengelb's Stonecutter Mod Template](https://github.com/rotgruengelb/stonecutter-mod-template) altered to fit my specific needs.
+This mod simply adds coal and charcoal nuggets.
 
-Differences from original template:
+Each coal and charcoal piece converts into 8 nuggets, each nugget smelts 1 item, and the nuggets can be crafted back into a piece.
 
-- Adjusted buildscripts to support unobfuscated versions of the game, starting with 26.1.
-  - The template no longer supports older versions.
-- Added dependencies:
-  - Fzzy Config as the config API
-  - Mixson for runtime JSON patching
-- Disabled datagen.
-- Disabled javadoc build.
+Nuggets can be used to craft a single torch, by placing 2 nuggets in a line above a stick.
+
+They can also be used to fuel the furnace minecart, for a duration 8 times shorter than a piece.

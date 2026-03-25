@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": {
+    "coalnuggets:coal_nugget": {
+      "burn_time": 200
+    },
+    "coalnuggets:charcoal_nugget": {
+      "burn_time": 200
+    }
+  }
+}
