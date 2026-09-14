@@ -24,8 +24,6 @@ Based on [Stonecutter Fabric & NeoForge template](https://github.com/stonecutter
 
 No instructions on how to use this yet. If you do want to try it out, the only big difference compared to other templates is that dependencies are declared inside `stonecutter.properties.toml` and not manually inside the build scripts. You only need to add repositories to the build scripts. You can see how pre-configured dependencies are added as examples.
 
-The template may have bugs and oversights as I haven't moved any of my mods to it yet.
-
 Tooling used:
 - [Fabric Loom](https://github.com/FabricMC/fabric-loom): Used for the Fabric build script
 - [ModDevGradle](https://github.com/neoforged/ModDevGradle): Used for the NeoForge build script
