@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "coal",
+  "ingredients": [
+    {
+      "item": "coalnuggets:coal_nugget"
+    },
+    {
+      "item": "coalnuggets:coal_nugget"
+    },
+    {
+      "item": "coalnuggets:coal_nugget"
+    },
+    {
+      "item": "coalnuggets:coal_nugget"
+    },
+    {
+      "item": "coalnuggets:coal_nugget"
+    },
+    {
+      "item": "coalnuggets:coal_nugget"
+    },
+    {
+      "item": "coalnuggets:coal_nugget"
+    },
+    {
+      "item": "coalnuggets:coal_nugget"
+    }
+  ],
+  "result": {
+    "id": "minecraft:coal"
+  }
+}

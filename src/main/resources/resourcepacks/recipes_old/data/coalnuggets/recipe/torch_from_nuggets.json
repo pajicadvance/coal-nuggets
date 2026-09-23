@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": [
+      {
+        "item": "coalnuggets:coal_nugget"
+      },
+      {
+        "item": "coalnuggets:charcoal_nugget"
+      }
+    ]
+  },
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "result": {
+    "id": "minecraft:torch"
+  }
+}
